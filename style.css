@@ -71,3 +71,10 @@ body {
 
   z-index: 0;
 }
+
+.halloworld:hover,
+.box1:hover,
+.box2:hover,
+.box3:hover {
+  cursor: url(images/purple-ellipse.png), auto;
+}
